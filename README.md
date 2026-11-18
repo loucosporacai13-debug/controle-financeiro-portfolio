@@ -34,6 +34,10 @@ O aplicativo utiliza localStorage para salvar e recuperar informações no naveg
 
 Projeto pessoal em desenvolvimento e validação. O código operacional original permanece em repositório privado.
 
-## 🎬 Demonstração
+## 🎬 Demonstração em vídeo
 
-Imagens e vídeo demonstrativo em preparação.
+Assista à demonstração do Controle Financeiro Pessoal, com navegação pelo dashboard, contas e cartões, gráficos, categorias, pagamentos recorrentes, lembretes e investimentos.
+
+▶️ **[Assistir à demonstração do Controle Financeiro](https://youtu.be/5Qvf3v-iRDk)**
+
+*Os dados financeiros apresentados são fictícios.*
